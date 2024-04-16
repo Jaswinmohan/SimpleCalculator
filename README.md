@@ -21,18 +21,3 @@ A simple calculator GUI application built using Java Swing, allowing users to pe
 6. **Enter Operands**: Enter the required operands when prompted.
 7. **View Result**: View the result displayed in a message dialog.
 
-## Screenshots
-
-![Calculator Screenshot](screenshots/calculator.png)
-
-## Contributing
-
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust the wording or layout as needed to better fit your project's style and audience!
